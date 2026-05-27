@@ -23,10 +23,10 @@ https://your-live-link-here.com
 
 ## Project Structure
 /she-can-foundation-project
-│
-├── index.html
-├── style.css
-└── README.md
+
+--> index.html
+--> style.css
+--> README.md
 
 
 ---
