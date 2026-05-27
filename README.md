@@ -25,7 +25,9 @@ https://your-live-link-here.com
 /she-can-foundation-project
 
 --> index.html
+
 --> style.css
+
 --> README.md
 
 
